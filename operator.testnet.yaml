@@ -1,0 +1,11 @@
+operator:
+    address: 0xAa280FdB50391Fb63458FeE1b484BE2f36cE990b
+    earnings_receiver_address: 0x68b44Ea0b78afF90E328406768beDcd387000d31
+    delegation_approver_address: "0x0000000000000000000000000000000000000000"
+    staker_opt_out_window_blocks: 0
+    metadata_url: "https://raw.githubusercontent.com/Hmac512/eigenpod/main/metadata.json?"
+el_delegation_manager_address: 0x39053D51B77DC0d36036Fc1fCc8Cb819df8Ef37A
+eth_rpc_url: https://ethereum-holesky-rpc.publicnode.com
+private_key_store_path: /home/ubuntu/.eigenlayer/operator_keys/mainKeyECDSA.ecdsa.key.json
+signer_type: local_keystore
+chain_id: 17000
